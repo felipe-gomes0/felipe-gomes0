@@ -38,20 +38,20 @@ Busco constantemente aprimorar meus conhecimentos e evoluir profissionalmente, s
 
 --- 
 ### 📲 Formas de Contato
-<ul>
-    <li style="list-style-type: none; display: flex; gap:0.5rem">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="30px"/> 
-        <a href="https://www.linkedin.com/in/felipesouzg/" title="Perfil profissional" target="_blank">
-            @felipesouzg
-        </a>
-    </li>
-    <li style="list-style-type: none; display: flex; gap:0.5rem">
-        <img src="https://img.icons8.com/?size=100&id=eKlyMs0XteXZ&format=png&color=000000" width="30px" heigth="20px"/> 
-        <a href="mailto:felipesouzg@outlook.com" title="E-mail profissional">
-            felipesouzg@outlook.com
-        </a>
-    </li>
-</ul>   
+
+<p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="30px"/> 
+    <a href="https://www.linkedin.com/in/felipesouzg/" title="Perfil profissional" target="_blank">
+        @felipesouzg
+    </a>
+</p>
+<p>
+    <img src="https://img.icons8.com/?size=100&id=eKlyMs0XteXZ&format=png&color=000000" width="30px" heigth="20px"/> 
+    <a href="mailto:felipesouzg@outlook.com" title="E-mail profissional">
+        felipesouzg@outlook.com
+    </a>
+</p>
+
           
 
 <br/>
