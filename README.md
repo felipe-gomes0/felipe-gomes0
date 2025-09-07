@@ -5,7 +5,7 @@
 
 Me chamo **Felipe de Souza Gomes**, tenho 23 anos e sou natural de Rondônia. Atualmente, curso **Engenharia de Software** na Universidade Tecnológica Federal do Paraná **(UTFPR)**. Sou fascinado por tecnologia e apaixonado pela leitura. 
 
-Gosto muito de pensar de forma sistemática e por isso tenho profundo interesse na área de engenharia de software e em seu desenvolvimento. Atuo como **Gerente de projetos dentro naaaaa Unect**, onde coordeno uma equipe de desenvolvedores e gerencio o andamento das etapas de codificação dos projetos.
+Gosto muito de pensar de forma sistemática e por isso tenho profundo interesse na área de engenharia de software e em seu desenvolvimento. Atuo como **Gerente de projetos na Unect**, onde coordeno uma equipe de desenvolvedores e gerencio o andamento das etapas de codificação dos projetos.
 
 Busco constantemente aprimorar meus conhecimentos e evoluir profissionalmente, sempre alinhado com valores que considero fundamentais: independência, persistência e constância.
 
@@ -27,12 +27,32 @@ Busco constantemente aprimorar meus conhecimentos e evoluir profissionalmente, s
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
 <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
 
-<img align="left" alt="Java" title="Java" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+<img align="left" alt="Java" title="Java" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+
+<img align="left" alt="MongoDB" title="MongoDB" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg">
+
+<img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
+
+
 <br/>
 
 --- 
 ### 📲 Formas de Contato
-    
+<ul>
+    <li style="list-style-type: none; display: flex; gap:0.5rem">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="30px"/> 
+        <a href="https://www.linkedin.com/in/felipesouzg/" title="Perfil profissional" target="_blank">
+            @felipesouzg
+        </a>
+    </li>
+    <li style="list-style-type: none; display: flex; gap:0.5rem">
+        <img src="https://img.icons8.com/?size=100&id=eKlyMs0XteXZ&format=png&color=000000" width="30px" heigth="20px"/> 
+        <a href="mailto:felipesouzg@outlook.com" title="E-mail profissional">
+            felipesouzg@outlook.com
+        </a>
+    </li>
+</ul>   
+          
 
 <br/>
 
