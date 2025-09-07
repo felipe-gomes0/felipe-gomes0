@@ -3,13 +3,11 @@
 
 **` Fullstack developer `**
 
-Me chamo **Felipe de Souza Gomes**, tenho 23 anos e nasci em Rondônia. Atualmente, estou cursando **Engenharia de Software** na Universidade Tecnológica Federal do Paraná **(UTFPR)**. Sou fascinado por tecnologia e leitura. 
+Me chamo **Felipe de Souza Gomes**, tenho 23 anos e sou natural de Rondônia. Atualmente, curso **Engenharia de Software** na Universidade Tecnológica Federal do Paraná **(UTFPR)**. Sou fascinado por tecnologia e apaixonado pela leitura. 
 
-Gosto muito de pensar de forma sistematica e por isso tenho profundo interesse na área de engenharia de software
+Gosto muito de pensar de forma sistemática e por isso tenho profundo interesse na área de engenharia de software e em seu desenvolvimento. Atuo como **Gerente de projetos dentro naaaaa Unect**, onde coordeno uma equipe de desenvolvedores e gerencio o andamento das etapas de codificação dos projetos.
 
-<p align="left">
-    
-</p>
+Busco constantemente aprimorar meus conhecimentos e evoluir profissionalmente, sempre alinhado com valores que considero fundamentais: independência, persistência e constância.
 
 ---
 
@@ -32,6 +30,9 @@ Gosto muito de pensar de forma sistematica e por isso tenho profundo interesse n
 <img align="left" alt="Java" title="Java" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
 <br/>
 
+--- 
+### 📲 Formas de Contato
+    
 
 <br/>
 
