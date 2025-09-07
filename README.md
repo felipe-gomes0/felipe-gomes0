@@ -3,7 +3,9 @@
 
 **`Fullstack developer | Software Engineer`**
 
-Me chamo **Felipe de Souza Gomes**, tenho 23 anos e atualmente, estou cursando **Engenharia de Software**. Sou fascinado por tecnologia e leitura.  
+Me chamo **Felipe de Souza Gomes**, tenho 23 anos e nasci em Rondônia. Atualmente, estou cursando **Engenharia de Software** na Universidade Tecnológica Federal do Paraná **(UTFPR)**. Sou fascinado por tecnologia e leitura. 
+
+Gosto muito de pensar de forma sistematica e por isso tenho profundo interesse na área de engenharia de software
 
 <p align="left">
     
@@ -12,6 +14,7 @@ Me chamo **Felipe de Souza Gomes**, tenho 23 anos e atualmente, estou cursando *
 ---
 
 ### 🤖 Linguagens e Tecnologias
+
 
 <img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
 <img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
@@ -27,10 +30,8 @@ Me chamo **Felipe de Souza Gomes**, tenho 23 anos e atualmente, estou cursando *
 <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
 
 <img align="left" alt="Java" title="Java" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-          
-
-          
-
 <br/>
+
+
 <br/>
 
