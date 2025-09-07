@@ -1,7 +1,7 @@
 
 # 👨🏻‍💻 Felipe de Souza Gomes
 
-**`Fullstack developer `**
+**` Fullstack developer `**
 
 Me chamo **Felipe de Souza Gomes**, tenho 23 anos e nasci em Rondônia. Atualmente, estou cursando **Engenharia de Software** na Universidade Tecnológica Federal do Paraná **(UTFPR)**. Sou fascinado por tecnologia e leitura. 
 
